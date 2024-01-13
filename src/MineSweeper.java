@@ -1,2 +1,4 @@
-package PACKAGE_NAME;public class MineSweeper {
+public class MineSweeper {
+    public MineSweeper(int row, int col) {
+    }
 }
